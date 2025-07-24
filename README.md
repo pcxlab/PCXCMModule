@@ -1,1 +1,1 @@
-"# PCXCMModule" 
+"# PCXCMModule module" 
